@@ -2,13 +2,19 @@
 title = "About"
 +++
 
-## Summary
+## About Me
 
-Accomplished tech industry professional with measurable success planning and implementing complex software development and infrastructure projects using a range of programming languages, operating systems, and tools. 
+I am a cloud microservices developer and infrastructure engineer currently living in the Greater Seattle area. I have over two decades of software development experience and my primary focus is cloud native software development and automation. In my free time I love learning new technologies and hacking on open source projects. 
 
-## Skills
+## Stats and Social
 
-**Expertise Areas:** Software Development, Microservices, Cloud Technologies, Automation, Data Engineering, Data Analytics/Visualization and Technology Leadership
+* [LinkedIn](https://www.linkedin.com/in/actanner/)
+* [GitHub](https://github.com/drewnix)
+* [HackerRank](https://www.hackerrank.com/drewnix)
+
+## Skill Areas
+
+**Expertise:** Software Development, Microservices, Cloud Technologies, Automation, Data Engineering, Data Analytics/Visualization and Technology Leadership
 
 **Languages:** Python, Typescript, Javascript, Go, SQL, C/C++, Java, R
 

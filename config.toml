@@ -10,12 +10,12 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Andrew Tanner"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "A hacker blog"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Andrew Tanner"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://drewnix.dev"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
@@ -37,7 +37,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Resume"
