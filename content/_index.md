@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Andrew Tanner"
 +++
 
 ## About Me
