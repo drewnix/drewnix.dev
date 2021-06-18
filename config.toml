@@ -4,6 +4,7 @@ title = "Andrew Tanner"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
+publishDir = "docs"
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
