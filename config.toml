@@ -12,7 +12,7 @@ googleAnalytics = ""  # add your tracking id
   author = "Andrew Tanner"
   description = "A hacker blog"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
-  logo = ""  # url or path to a logo to put in the header
+  logo = "logo.png"  # url or path to a logo to put in the header
   [params.footer]
     text = "By Andrew Tanner"
     url = "https://drewnix.dev"
