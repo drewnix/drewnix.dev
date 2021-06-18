@@ -7,20 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://drewnix.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://drewnix.dev/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://drewnix.dev/about/</guid>
-      <description>Summary Accomplished tech industry professional with measurable success planning and implementing complex software development and infrastructure projects using a range of programming languages, operating systems, and tools.
-Skills Expertise Areas: Software Development, Microservices, Cloud Technologies, Automation, Data Engineering, Data Analytics/Visualization and Technology Leadership
-Languages: Python, Typescript, Javascript, Go, SQL, C/C++, Java, R
-Cloud: AWS, Terraform, Kubernetes, Docker
-Networking: TCP/IP, DNS, NFS, SMB, Network Design, Packet Analysis and Troubleshooting
-Databases: Snowflake, Spatial Databases, Postgres/PostGIS, MySQL, MSSQL</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://drewnix.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
