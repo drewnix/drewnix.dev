@@ -4,6 +4,9 @@ title = "Andrew Tanner"
 
 ## About Me
 
+
+{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+
 I am a cloud microservices developer and infrastructure engineer currently living in the Greater Seattle area. I have over two decades of software development experience and my primary focus is cloud native software development and automation. In my free time I love learning new technologies and hacking on open source projects. 
 
 ## Stats and Social
